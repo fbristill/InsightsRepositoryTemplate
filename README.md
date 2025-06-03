@@ -1,3 +1,3 @@
 # InsightsRepositoryTemplate
-This shows a scalable framework designed to centralize and structure research insights, enabling knowledge sharing and smarter decision-making across teams.
-It is a reusable structure for organizing research learnings, promoting cross-functional access, collaboration, and long-term insight retention
+As the Market Research and DevOps Integration Manager at EffulgenceTech, I developed this scalable and automated framework to streamline the organization of Research Insights. Designed to enhance stakeholder engagement and promote cross-functional collaboration, this Insight Repository ensures that valuable research learnings are not only retained but actively reused across teams. 
+By integrating DevOps principles such as Vrsion control, process automation, and continuous improvement, this system strengthens research visibility, accelerates decision-making, and reinforces a culture of evidence-based innovation
